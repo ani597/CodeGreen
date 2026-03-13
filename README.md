@@ -15,4 +15,5 @@ An ESP32-based monitoring node designed to optimize water usage in urban farming
 - [x] Hardware Acquired
 - [x] Environment Setup (Arduino IDE + Drivers)
 - [x] Basic Board Testing (Blink Test)
-- [ ] Sensor Integration (In Progress)
+- [x] Temperature Sensor Integration (Check if DHT11 is giving temperature readings)
+- [ ] Moisture Sensor Integration (in progress)
